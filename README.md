@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronelle</h1>
 <h3 align="center">A passionate Computer Science student from Ghana</h3>
 
-- 🔭 I’m currently working on building a Recipe Sharing platform and my personal portfolio **Recipe Haven**
+- 🔭 I’m currently working on my personal portfolio and building a Recipe Sharing platform **Recipe Haven**
 
 - 🌱 I’m currently learning **C++ and Web Technolgies; the web architecture and full stack development**
 
