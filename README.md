@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my personal portfolio, building a **Pinterest** clone (**Vividly**) and building a Recipe Sharing platform (**Recipe Haven**)
 
-- 🌱 I’m currently learning **C++ and Web Technolgies; the web architecture and full stack development**
+- 🌱 I’m currently learning **C++ and Web Technolgies (Web architecture and full stack development)**
 
 <h3 align="left">Connect with me:</h3>
 
