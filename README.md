@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronelle</h1>
-<h3 align="center">A passionate Computer Science student from Ghana</h3>
+<h3 align="center">An aspiring Software Engineer from Ghana</h3>
 
 - 🔭 I’m currently working on my personal portfolio, building a **Pinterest** clone (**Vividly**) and building a Recipe Sharing platform (**Recipe Haven**)
 
