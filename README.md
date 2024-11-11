@@ -5,6 +5,12 @@
 
 - 🌱 I’m currently learning **C++ and Web Technolgies (Web architecture and full stack development)**
 
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 
 https://c-ronny.github.io/Portfolio/
