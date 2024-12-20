@@ -24,4 +24,4 @@ I Ronelle, an aspiring Software Engineer with a diverse skill set and a passion 
 ---
 [![](https://visitcount.itsvg.in/api?id=C-Ronny&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=C-Ronny&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
