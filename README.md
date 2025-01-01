@@ -10,9 +10,3 @@ Hi, I'm Ronelle, an aspiring Software Engineer with a diverse skill set and a pa
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=C-Ronny&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=C-Ronny&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
