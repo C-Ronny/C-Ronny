@@ -1,5 +1,5 @@
 # About Me 🥀
-Hi, I'm Ronelle, an aspiring Software Engineer with a diverse skill set and a passion for creating innovative solutions that blend technical expertise with artistic flair.
+Hi, I'm Ronelle, an aspiring Software Engineer with a diverse skill set and a passion for creating innovative solutions that blend technical expertise and creativity.
 
 
 ## 🌐 Socials:
