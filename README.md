@@ -2,7 +2,7 @@
 
 **Software Engineer** | Aligning software engineering principles with business goals to build scalable systems.
 
-🎓 CS @ Ashesi University (Jun 2026) | 💼 Open to SWE roles at fintech & tech companies
+CS @ Ashesi University (Jun 2026) | Open to SWE roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronellecudjoe/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ronellecudjoe.vercel.app/)
