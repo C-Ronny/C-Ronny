@@ -40,7 +40,7 @@ CS @ Ashesi University (Jun 2026) | Open to SWE roles
 
 ## Featured Projects
 
-### [Movie Recommendation System]([https://github.com/C-Ronny/movie-recommendation-system](https://recommendersystem-hzapp3sym6lbbgfuqbneakr.streamlit.app/))
+### [Movie Recommendation System](https://recommendersystem-hzapp3sym6lbbgfuqbneakr.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
